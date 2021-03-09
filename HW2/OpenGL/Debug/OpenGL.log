@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Osinor\Desktop\hw2_undergraduate\OpenGL\OpenGL\main.cpp(25): warning C4326: return type of 'main' should be 'int' instead of 'void'
+main.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+main.obj : error LNK2019: unresolved external symbol __imp____glutCreateWindowWithExit@8 referenced in function _glutCreateWindow_ATEXIT_HACK@4
+C:\Users\Osinor\Desktop\freeglut\lib\x64\freeglut.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Osinor\Desktop\hw2_undergraduate\OpenGL\Debug\OpenGL.exe : fatal error LNK1120: 7 unresolved externals
